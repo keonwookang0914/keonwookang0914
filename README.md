@@ -1,12 +1,13 @@
 <div align="center">
 
+**English** | [한국어](https://github.com/keonwookang0914/keonwookang0914/blob/main/README.ko.md)
+
 # Hi, I'm Keonwoo Kang 👋
 
 ### Game Client / Engine / Graphics Programmer
 
-<a href="https://keonwookang0914.github.io"><img src="https://img.shields.io/badge/Portfolio-github.io-2F80ED?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://keonwookang0914.github.io"><img src="https://img.shields.io/badge/Portfolio-github.io-2F80ED?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>&nbsp;&nbsp;
 <a href="https://velog.io/@prid1306"><img src="https://img.shields.io/badge/Blog-Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog"></a>
-<a href="mailto:kwkang0914@gmail.com"><img src="https://img.shields.io/badge/Email-kwkang0914%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -22,7 +23,7 @@ I use AI a lot to try out as many areas as I can.
 
 - 🚀 Released **Wormhole Portal**, an Unreal Engine plugin, on [Fab](https://www.fab.com/listings/db5a77b9-d2a8-4e39-86b5-ba86b667b66c)
 - 🛠️ Built a **C++ / Direct3D 11 game engine** modeled on UE5 with a 30-person team ([GitHub](https://github.com/keonwookang0914/GTLEngine))
-- 🎓 Finished **KRAFTON Jungle Game Tech Lab**, Cohort 3 ([Program](https://jungle.krafton.com/courses/gametechlab))
+- 🎓 Finished **KRAFTON Jungle Game Tech Lab**, Cohort 3 ([About Game Tech Lab](https://jungle.krafton.com/courses/gametechlab))
 - 🎮 Self-taught Unreal Engine for 2.5 years (since UE 5.1)
 
 ## 🧰 Tech Stack
@@ -51,3 +52,7 @@ I use AI a lot to try out as many areas as I can.
 | 🌀 **[Wormhole Portal Plugin](https://github.com/TeamBeaverStudio/WormholePortal)**<br>UE plugin for portals you can walk through | 2026.06 – 2026.08 | Built the whole Actor Transit system: physics, collision, and visuals | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)<br>![Unreal Engine 5.8](https://img.shields.io/badge/Unreal%20Engine%205.8-0E1128?style=flat-square&logo=unrealengine&logoColor=white)<br>![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white) | [GitHub](https://github.com/TeamBeaverStudio/WormholePortal)<br>[Fab](https://www.fab.com/listings/db5a77b9-d2a8-4e39-86b5-ba86b667b66c)<br>[Cinematic Demo](https://youtu.be/KBAQ1CzsENw)<br>[Game Demo](https://youtu.be/SniZdKOumxs) |
 | ⚙️ **[Custom 3D Game Engine](https://github.com/keonwookang0914/GTLEngine)**<br>C++20 / D3D11 engine built from scratch | 2026.03 – 2026.06 | Built a new engine feature every week with a new team | ![C++20](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white)<br>![Direct3D 11](https://img.shields.io/badge/Direct3D%2011-0078D4?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkRpcmVjdDNEIDExPC90aXRsZT48cGF0aCBkPSJNMywzIEwxMiw2LjcgTDIxLDMgTDE3LjMsMTIgTDIxLDIxIEwxMiwxNy4zIEwzLDIxIEw2LjcsMTIgWiIvPjwvc3ZnPgo%3D)<br>![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkRpcmVjdDNEIDExPC90aXRsZT48cGF0aCBkPSJNMywzIEwxMiw2LjcgTDIxLDMgTDE3LjMsMTIgTDIxLDIxIEwxMiwxNy4zIEwzLDIxIEw2LjcsMTIgWiIvPjwvc3ZnPgo%3D)<br>![PhysX](https://img.shields.io/badge/PhysX-76B900?style=flat-square&logo=nvidia&logoColor=white) | [GitHub](https://github.com/keonwookang0914/GTLEngine)<br>[Final Game Jam](https://youtu.be/6FKeBgbKIRE) |
 | 👽 **[We Are Not Alone (A1)](https://github.com/keonwookang0914/A1)**<br>First-person survival horror game | 2025.02 – 2025.07 | Game flow, interactions, and tutorial | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)<br>![Unreal Engine 5.4](https://img.shields.io/badge/Unreal%20Engine%205.4-0E1128?style=flat-square&logo=unrealengine&logoColor=white) | [GitHub](https://github.com/keonwookang0914/A1)<br>[Demo](https://youtu.be/hMzqnQeK3ig) |
+
+## 📫 Contact
+
+- Email: [kwkang0914@gmail.com](mailto:kwkang0914@gmail.com)
